@@ -77,3 +77,9 @@ z-index: -1;
 .aboutus-icon{
     font-size: 4rem;
 }
+
+
+.accordion-button{
+    padding: 1em;
+    font-size: 1.8em;
+}
