@@ -50,5 +50,18 @@ z-index: -1;
 .home{
     position: relative;
     height: 60rem;
+    background-image: url('../img/city.jpg');
+    background-size: cover;
+    background-position: center;
     z-index: 0;
+}
+
+.home .btn {
+    padding: 1em 2em;
+    font-style: 1.4em;
+    text-transform: uppercase;
+}
+
+.home .welcome-text {
+    font-size: 2.2em;
 }
