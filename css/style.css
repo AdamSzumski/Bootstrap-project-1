@@ -12,7 +12,7 @@ html{
 body{
     font-family: 'Roboto', sans-serif;
     font-size: 1.6rem;
-    background-color: #333;
+    
 }
 
 .hero-shadow{
@@ -64,4 +64,16 @@ z-index: -1;
 
 .home .welcome-text {
     font-size: 2.2em;
+}
+
+/* sekcja about us */
+
+.aboutus-box h3{
+    font-size: 2.4rem;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.aboutus-icon{
+    font-size: 4rem;
 }
